@@ -2,7 +2,11 @@
 
 ## 1. Menginstall Git
 Untuk menginstal git bisa dilakukan pada [halaman download Git](https://git-scm.com/downloads). Setelah mendowndload dan menginstall git, periksa penginstalan dengan cara menuliskan ``` $ git --version ``` pada git console.
-![cek instalasi git](1-git-ver.png)
+
+![cek instalasi git](1-gitver.JPG)
+
+Jika muncul versi gitnya, maka penginstalan berhasil.
+
 ## 2. Melakukan Konfigurasi Git
 Konfigurasi git bertujuan agar git mengetahui siapa yang melalukan commit atau melakukan perubahan pada repo. Konfigurasi git dilakukan dengan cara :
 ```

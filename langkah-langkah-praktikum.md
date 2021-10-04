@@ -52,7 +52,7 @@ kemudian pada git harus masuk kedalam folder yang diclone tadi agar bisa melakuk
 ![cd](8-cd.JPG)
 
 ### 3.4. Mengubah Isi Repository
-#### 3.4.1 Menambahkan File
+#### 3.4.1. Menambahkan File
 Disini saya menggunakan Visual Stuio Code Untuk text editornya. pada repo ini saya menambahkan 1 file yang bernama index.html
 ![vsc](8.png)
 
@@ -66,3 +66,7 @@ untuk memindahkan ke staging area yaitu dengan cara seperti berikut
 ![git push](12-.JPG)
 
 pada bagian ``` $ git push ``` diperlukan code access token yg tadi dibuat.
+Jika di cek pada repository di github maka file index.html sudah ditambahkan
+![git repo](13-.JPG)
+
+#### 3.4.2. Mengubah data / mengubah isi file

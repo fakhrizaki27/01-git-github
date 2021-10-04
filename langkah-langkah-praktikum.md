@@ -24,9 +24,18 @@ menuliskan ``` $ git config --list ``` pada console git untuk melihat konfiguras
 
 ## 3. Mengelola Repo
 
-### 3.1 Membuat Personal Access Token
+### 3.1. Membuat Personal Access Token
 Untuk membuat personal access token dapat dilakukan dengan mengikuti langkah-langkah pada https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token
 
-### 3.2 Membuat Repository
+### 3.2. Membuat Repository
 langkah - langkah :
 - Klik tanda '+' dan pilih New Repository
+![new repo](3-newrepo.png)
+
+- Isikan nama repo, keterangan bila perlu, kemudian pilih private atau public tersserah. disini saya menambahkan README.md agar repo tidak kosong saat di clone
+![nama repo](4-namarepo.png)
+
+- Klik Create Repository
+![create repo](5-createrepo.png)
+
+### 3.3. Menduplikat Repo ke Komputer Lokal (CLoning)

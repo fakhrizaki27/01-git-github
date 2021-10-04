@@ -23,6 +23,10 @@ menuliskan ``` $ git config --list ``` pada console git untuk melihat konfiguras
 ![konfigurasi git](2-konfig.JPG)
 
 ## 3. Mengelola Repo
+
 ### 3.1 Membuat Personal Access Token
-cara :
-- Klik pada bagian kanan atas dan pilih Setting
+Untuk membuat personal access token dapat dilakukan dengan mengikuti langkah-langkah pada https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token
+
+### 3.2 Membuat Repository
+langkah - langkah :
+- Klik tanda '+' dan pilih New Repository

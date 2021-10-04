@@ -20,6 +20,9 @@ $ git config --global user.email fakhrizaki27@gmail.com
 ```
 menuliskan ``` $ git config --list ``` pada console git untuk melihat konfigurasi git.
 
+![konfigurasi git](2-konfig.JPG)
+
 ## 3. Mengelola Repo
 ### 3.1 Membuat Personal Access Token
-
+cara :
+- Klik pada bagian kanan atas dan pilih Setting

@@ -70,3 +70,10 @@ Jika di cek pada repository di github maka file index.html sudah ditambahkan
 ![git repo](13-.JPG)
 
 #### 3.4.2. Mengubah data / mengubah isi file
+Masuk ke dalam teks editor dan modifikasi filenya
+![vsc](14.png)
+
+kemudian commit
+![update commit](14-.JPG)
+
+![Uodate commit1](15-.JPG)

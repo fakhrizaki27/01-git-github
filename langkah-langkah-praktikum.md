@@ -3,7 +3,7 @@
 ## 1. Menginstall Git
 Untuk menginstal git bisa dilakukan pada [halaman download Git](https://git-scm.com/downloads). Setelah mendowndload dan menginstall git, periksa penginstalan dengan cara menuliskan ``` $ git --version ``` pada git console.
 
-![cek instalasi git](1-gitver.JPG)
+![cek instalasi git](gmbr/1-gitver.JPG)
 
 Jika muncul versi gitnya, maka penginstalan berhasil.
 

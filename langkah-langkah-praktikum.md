@@ -77,3 +77,9 @@ kemudian commit
 ![update commit](14-.JPG)
 
 ![Uodate commit1](15-.JPG)
+
+#### 3.4.3. Membatalkan Perubahan
+Menggunakan perintah ``` $ git checkout ```
+
+#### 3.4.4. Undo Commit Terakhir
+Menggunakan perintah ``` $ git revert ```

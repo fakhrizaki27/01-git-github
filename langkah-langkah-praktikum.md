@@ -45,7 +45,24 @@ $ git clone https://github.com/fakhrizaki27/coba-coba.git
 ```
 ![clone](6-clone.JPG)
 
-Untuk mengetahui file clone disimpan di directory mana bisa dengan cara menuliskan ``` $pwd ```
+Untuk mengetahui file clone disimpan di directory mana bisa dengan cara menuliskan ``` $ pwd ```
 ![clone direct](7-clone.JPG)
 
+kemudian pada git harus masuk kedalam folder yang diclone tadi agar bisa melakukan perubahan. hal ini bisa dilakukan dengan melakukang change directory
+![cd](8-cd.JPG)
+
 ### 3.4. Mengubah Isi Repository
+#### 3.4.1 Menambahkan File
+Disini saya menggunakan Visual Stuio Code Untuk text editornya. pada repo ini saya menambahkan 1 file yang bernama index.html
+![vsc](8.png)
+
+file tersebut masih berada di working area dan haus di pindahkan ke staging area. untuk mengetahuinya dengan cara menuliskan ``` $ git status ```
+
+![stts](9-.JPG)
+
+untuk memindahkan ke staging area yaitu dengan cara seperti berikut
+![add](10-.JPG)
+
+![git push](12-.JPG)
+
+pada bagian ``` $ git push ``` diperlukan code access token yg tadi dibuat.

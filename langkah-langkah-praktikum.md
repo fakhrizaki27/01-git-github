@@ -39,3 +39,13 @@ langkah - langkah :
 ![create repo](5-createrepo.png)
 
 ### 3.3. Menduplikat Repo ke Komputer Lokal (CLoning)
+Untuk mengclone dapat dilakukan dengan menuliskan perintah seperti berikut :
+```
+$ git clone https://github.com/fakhrizaki27/coba-coba.git
+```
+![clone](6-clone.JPG)
+
+Untuk mengetahui file clone disimpan di directory mana bisa dengan cara menuliskan ``` $pwd ```
+![clone direct](7-clone.JPG)
+
+### 3.4. Mengubah Isi Repository
